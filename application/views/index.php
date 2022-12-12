@@ -142,17 +142,16 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assets/img/gambar1.PNG" alt="">
+                            <img class="img-fluid" src="./assets/img/gambarsayur1.png" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
                                 <h1 class="h1 text-success"><b>WOV</b> e-commerce</h1>
                                 <h3 class="h2">World Of Vegetables</h3>
                                 <p>
-                                    WOV adalah e-commerce penjualan Sayur $ Buah <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">TemplateMo</a> website. 
-                                    Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">Freepik Stories</a>,
-                                    <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">Unsplash</a> and
-                                    <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">Icons 8</a>.
+                                    WOV is an E-Commerce selling Vegetables & Fruit. <br>
+                                    Various types of Vegetables & Fruit . <br>
+                                    Everything you need is here at WOV .
                                 </p>
                             </div>
                         </div>
@@ -163,15 +162,17 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/gambar3.PNG" alt="">
+                            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/brocolicon.PNG" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Proident occaecat</h1>
-                                <h3 class="h2">Aliquip ex ea commodo consequat</h3>
+                                <h1 class="h1">Various Vegetable</h1>
+                                <h3 class="h2">Complete Vegetable E-Commerce</h3>
                                 <p>
-                                    You are permitted to use this Zay CSS template for your commercial websites. 
-                                    You are <strong>not permitted</strong> to re-distribute the template ZIP file in any kind of template collection websites.
+                                    Provide a variety of fresh vegetables . <br>
+                                    Local & Imported vegetables are here .
+
+                                
                                 </p>
                             </div>
                         </div>
@@ -182,15 +183,15 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/gambar2.PNG" alt="">
+                            <img class="img-fluid" src="<?php echo base_url() ?>assets/img/tomaticon.PNG" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Repr in voluptate</h1>
-                                <h3 class="h2">Ullamco laboris nisi ut </h3>
+                                <h1 class="h1">Various Fruit</h1>
+                                <h3 class="h2">Complete Fruit E-Commerce </h3>
                                 <p>
-                                    We bring you 100% free CSS templates for your websites. 
-                                    If you wish to support TemplateMo, please make a small contribution via PayPal or tell your friends about our website. Thank you.
+                                    Provide a variety of fresh fruit . <br>
+                                    Local & Imported fruit are here .
                                 </p>
                             </div>
                         </div>
@@ -212,17 +213,16 @@ https://templatemo.com/tm-559-zay-shop
     <section class="container py-5">
         <div class="row text-center pt-3">
             <div class="col-lg-6 m-auto">
-                <h1 class="h1">Categories of The Month</h1>
+                <h1 class="h1">Best Selling of The Month</h1>
                 <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.
+                    This month's best sellling kitchen needs. 
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/brokoli1.jpg" class="rounded-circle img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">Brokoli</h5>
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/kentang1.jpg" class="rounded-circle img-fluid border"></a>
+                <h5 class="text-center mt-3 mb-3">Potato</h5>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
@@ -231,8 +231,8 @@ https://templatemo.com/tm-559-zay-shop
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/kelapa1.jpg" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">Kelapa Tua</h2>
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/jamur1.jpg" class="rounded-circle img-fluid border"></a>
+                <h2 class="h5 text-center mt-3 mb-3">Mushroom</h2>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
         </div>
@@ -247,8 +247,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="col-lg-6 m-auto">
                     <h1 class="h1">Featured Product</h1>
                     <p>
-                        Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                        Excepteur sint occaecat cupidatat non proident.
+                        Superior product for kitchen needs.
                     </p>
                 </div>
             </div>
@@ -256,7 +255,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="<?php echo base_url() ?>assets/shop-single.html">
-                            <img src="<?php echo base_url() ?>assets/img/Jagung1.jpg" class="card-img-top" alt="...">
+                            <img src="<?php echo base_url() ?>assets/img/lemon1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -264,23 +263,23 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
                                     <i class="text-muted fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$240.00</li>
+                                <li class="text-muted text-right">Rp 20.000/kg</li>
                             </ul>
-                            <a href="<?php echo base_url() ?> shop-single.html" class="h2 text-decoration-none text-dark">Gym Weight</a>
+                            <a href="<?php echo base_url() ?> shop-single.html" class="h2 text-decoration-none text-dark">Lemons</a>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt in culpa qui officia deserunt.
+                                Is a type of orange whose fruit is usually used as a flavoring and refreshing for cooking.
                             </p>
-                            <p class="text-muted">Reviews (24)</p>
+                            <p class="text-muted">Reviews (55)</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="shop-single.html">
-                            <img src="<?php echo base_url() ?>assets/img/daunbawang1.jpg" class="card-img-top" alt="...">
+                            <img src="<?php echo base_url() ?>assets/img/paprika1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -288,23 +287,23 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
+                                    <i class="text-warning fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$480.00</li>
+                                <li class="text-muted text-right">Rp 60.000/kg</li>
                             </ul>
-                            <a href="<?php echo base_url() ?>assets/shop-single.html" class="h2 text-decoration-none text-dark">Cloud Nike Shoes</a>
+                            <a href="<?php echo base_url() ?>assets/shop-single.html" class="h2 text-decoration-none text-dark">Paprika</a>
                             <p class="card-text">
-                                Aenean gravida dignissim finibus. Nullam ipsum diam, posuere vitae pharetra sed, commodo ullamcorper.
+                                Paprika is a fruit producing plant that tastes sweet and slightly spicy. 
                             </p>
-                            <p class="text-muted">Reviews (48)</p>
+                            <p class="text-muted">Reviews (78)</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="shop-single.html">
-                            <img src="<?php echo base_url() ?>assets/img/sledri1.jpg" class="card-img-top" alt="...">
+                            <img src="<?php echo base_url() ?>assets/img/brokoli1.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -315,13 +314,13 @@ https://templatemo.com/tm-559-zay-shop
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$360.00</li>
+                                <li class="text-muted text-right">Rp 27.000/kg</li>
                             </ul>
-                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Summer Addides Shoes</a>
+                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">Broccoli</a>
                             <p class="card-text">
-                                Curabitur ac mi sit amet diam luctus porta. Phasellus pulvinar sagittis diam, et scelerisque ipsum lobortis nec.
+                                Broccoli is a cultivar of the same species as cabbage and cauliflower.
                             </p>
-                            <p class="text-muted">Reviews (74)</p>
+                            <p class="text-muted">Reviews (102)</p>
                         </div>
                     </div>
                 </div>
